@@ -49,9 +49,7 @@ function App() {
           </button>
           <button
             className="awayButtons__fieldGoal"
-            onClick={() => { setAwayScore(awayScore + 3)}}>
-              Away Field Goal
-          </button>
+            onClick={() => { setAwayScore(awayScore + 3)}}>Away Field Goal</button>
         </div>
       </section>
     </div>
